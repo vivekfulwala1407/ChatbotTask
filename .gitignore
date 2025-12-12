@@ -1,0 +1,8 @@
+.env
+__pycache__/
+index/
+output/*.pkl
+output/*.parquet
+*.pyc
+.vscode/
+venv/
